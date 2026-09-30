@@ -1,4 +1,4 @@
-\# 🎨 Image Colorization Generative AI
+\# 🎨 Image Colorization using Generative AI
 
 
 
